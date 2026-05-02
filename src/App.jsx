@@ -8,7 +8,6 @@ function App(){
       <H1 title="Heading-2" desc="hello i am desc-2" />
       <H1 title="Heading-3" />
       <H1  />
-
     </div>
   );
 }
